@@ -1,0 +1,30 @@
+MyBussines on uudenlainen viestinsovellus, joka:
+
+1. Antaa sinun päättää yksityisyydestäsi
+2. Antaa sinun kommunikoida kenen tahansa kanssa MyBussines-verkossa ja jopa sen ulkopuolella siltaamalla sovelluksiin, kuten Slack
+3. Suojaa sinua mainonnalta, tietojen keräämiseltä ja suljetuilta alustoilta
+4. Suojaa sinut päästä päähän -salauksella sekä ristiin varmentamisella muiden todentamiseksi
+
+MyBussines eroaa täysin muista viestintäsovelluksista, koska se on hajautettu ja avointa lähdekoodia.
+
+MyBussines antaa sinun isännöidä itse - tai valita palveluntarjoajan - jotta sinulla on yksityisyys ja voit hallita tietojasi sekä keskustelujasi. Se antaa sinulle pääsyn avoimeen verkkoon, joten et jää juttelemaan vain toisten MyBussinesin käyttäjien kanssa. Se on myös hyvin turvallinen.
+
+MyBussines pystyy tekemään kaiken tämän, koska se toimii MyBussinesilla - avoimella, hajautetun viestinnän standardilla.
+
+MyBussines antaa sinulle päätösvallan antamalla sinun valita, kuka isännöi keskustelujasi. MyBussines-sovelluksessa voit valita isännän eri tavoin:
+
+1. Hanki ilmainen tili MyBussines-kehittäjien ylläpitämällä MyBussines.org-palvelimella tai valitse tuhansista vapaaehtoisten ylläpitämistä julkisista palvelimista.
+2. Isännöi tiliäsi itse ylläpitämällä palvelinta omalla laitteellasi
+3. Luo tili sinua varten tehdyllä palvelimella tilaamalla MyBussines Services -palvelu
+
+<b>Miksi valita MyBussines?</b>
+
+<b>OMAT TIEDOT</b>: Sinä päätät, missä tietosi ja viestisi säilytetään. Sinä määräät, ei jokin jättiyhtiö, joka tutkii tietojasi tai antaa niitä kolmansille osapuolille.
+
+<b>AVOINTA VIESTINTÄÄ JA YHTEISTYÖTÄ</b>: Voit keskustella kaikkien muiden MyBussines-verkon käyttäjien kanssa, riippumatta siitä käyttävätkö he MyBussinesiä tai muuta MyBussines-sovellusta, ja vaikka he käyttäisivät eri viestijärjestelmiä, kuten Slack, IRC tai XMPP.
+
+<b>ERITTÄIN TURVALLINEN</b>: Vahva päästä päähän -salaus (vain keskustelussa olevat voivat purkaa viestien salauksen), ja ristiin varmentaminen keskustelun osallistujien laitteiden tarkistamiseksi.
+
+<b>KATTAVAA VIESTINTÄÄ</b>: Viestit, ääni- ja videopuhelut, tiedostojen jakaminen, näytön jakaminen ja koko joukko integraatioita, botteja ja sovelmia. Rakenna huoneita ja yhteisöjä, pidä yhteyttä ja hoida asiasi.
+
+<b>MISSÄ TAHANSA OLETKIN</b>: Pidä yhteyttä missä tahansa, täysin synkronoidun viestihistorian kautta kaikilla laitteillasi ja verkossa osoitteessa https://app.element.io.

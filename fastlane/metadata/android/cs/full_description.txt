@@ -1,0 +1,30 @@
+MyBussines je nový typ aplikace pro výměnu zpráv a spolupráci, která:
+
+1. Vám dá kontrolu nad ochranou vašeho soukromí
+2. Umožní vám komunikovat s kýmkoli v síti MyBussines a dokonce i mimo ni pomocí integrací s aplikacemi, jako je Slack
+3. Ochrání vás před inzercí, dataminingem a uzavřenými zahradami
+4. Zabezpečí vás end-to-end šifrováním s křížovým podpisem pro ověření ostatních
+
+MyBussines je zcela odlišný od ostatních aplikací pro zasílání zpráv a spolupráci, protože je decentralizovaný a otevřený.
+
+MyBussines vám umožňuje použít vlastní domovský server - nebo si vybrat hostitele - abyste měli soukromí, vlastnictví a kontrolu nad svými daty a konverzacemi. Poskytuje vám přístup k otevřené síti; takže nejste zaseknuti jen při konverzaci s ostatními uživateli MyBussinesu. A je velmi bezpečný.
+
+MyBussines je toho všeho schopen, protože pracuje na MyBussines - standardu otevřené, decentralizované komunikace.
+
+MyBussines vám dává kontrolu nad tím, že si můžete vybrat, kdo bude hostovat vaše konverzace. Z aplikace MyBussines si můžete vybrat hostování různými způsoby:
+
+1. Získejte zdarma účet na veřejném serveru MyBussines.org hostovaném vývojáři MyBussines, nebo si vyberte z tisíců veřejných serverů hostovaných dobrovolníky
+2. Hostujte svůj účet spuštěním serveru na svém vlastním hardwaru
+3. Zaregistrujte si účet na vlastním serveru jednoduchým přihlášením k hostitelské platformě MyBussines Services
+
+<b>Proč zvolit MyBussines?</b>
+
+<b>VLASTNĚTE SVÁ DATA</b>: Vy rozhodnete, kde svá data a zprávy ponecháte. Vlastníte je a jsou pod vaší kontrolou, ne nějaký MEGACORP, který těží vaše data nebo poskytuje přístup třetím stranám.
+
+<b>ZPRÁVY A SPOLUPRÁCE</b>: Můžete chatovat s kýmkoli v síti MyBussines, ať už používá MyBussines nebo jinou aplikaci, a to i v případě, že používají jiný systém zasílání zpráv, jako je Slack, IRC nebo XMPP.
+
+<b>MAXIMÁLNĚ BEZPEČNÉ</b>: Skutečné šifrování typu end-to-end (pouze ti v konverzaci mohou dešifrovat zprávy) a křížové podepisování k ověření zařízení účastníků konverzace.
+
+<b>KOMPLETNÍ KOMUNIKACE</b>: Zprávy, hlasové hovory a videohovory, sdílení souborů, sdílení obrazovky a celá řada integrací, robotů a widgetů. Budujte místnosti, komunity, zůstaňte v kontaktu a spolupracujte.
+
+<b>KDEKOLIV JSTE</b>: Zůstaňte v kontaktu, ať jste kdekoli, s plně synchronizovanou historií zpráv na všech vašich zařízeních a na webu na adrese https://app.element.io.

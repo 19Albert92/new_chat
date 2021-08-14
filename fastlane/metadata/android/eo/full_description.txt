@@ -1,0 +1,30 @@
+MyBussines estas nova speco de mesaĝilo kaj kunlaborilo, kiu:
+
+1. Lasas vin regi vian komunikadon por protekti vian privatecon
+2. Lasas vin komuniki kun ĉiu ajn en la reto de MyBussines, kaj eĉ pliaj, per interkompreno kun aplikaĵoj kiel ekzemple Slack
+3. Protektas vin de reklamoj, kolektado de datumoj, kaj muritaj ĝardenoj
+4. Sekurigas vian komunikadon per tutvoja ĉifrado, kun la eblo kontroli aliajn per delegaj subskriboj
+
+MyBussines malsamas al aliaj mesaĝiloj kaj kunlaboriloj, ĉar ĝi estas sencentra kaj malfermitkoda.
+
+MyBussines lasas vin gastigi vian propran servilon, aŭ elekti servilon, kiu plaĉas al vi, por ke vi ne perdu privatecon, kaj por ke vi daŭre regu kaj posedu viajn datumojn kaj interparolojn. Ĝi donas al vi aliron al malfermita reto; por ke via interparolado ne estu limigita nur al aliaj uzantoj de MyBussines. Kaj ĝi estas tre sekura.
+
+MyBussines povas fari ĉi ĉion, ĉar ĝi funkcias per MyBussines – publika normo por malfermita, sencentra komunikado.
+
+MyBussines lasas vi elekti, kiu gastigos viajn interparolojn. Per la aplikaĵo MyBussines, vi povas elekti diversajn specojn de gastigado:
+
+1. Akiri senpagan konton ĉe la publika servilo MyBussines.org, gastigata de la programistoj de MyBussines, aŭ elekti unu el miloj da publikaj serviloj, gastigataj de volontuloj
+2. Memgastiĝi per via propra servilo ĉe via propra aparato
+3. Registriĝi ĉe propra servilo per simpla pagaliĝo al la gastiga platformo «MyBussines Services»
+
+<b>Kial MyBussines?</b>
+
+<b>POSEDU VIAJN DATUMOJN</b>: Vi decidu, kie vi tenu viajn datumojn kaj mesaĝojn. Vi posedas kaj regas ilin, ne iu granda komerca firmao, kiu kolektas viajn datumojn aŭ donas aliron al aliuloj.
+
+<b>MALFERMAJ MESAĜADO KAJ KUNLABORADO</b>: Vi povas babili kun ĉiu alia en la reto de MyBussines, ĉu ĝi uzas MyBussineson aŭ alian aplikaĵon de MyBussines, kaj eĉ se ĝi uzas tute alian mesaĝilon, kiel ekzemple Slack, IRC, aŭ XMPP.
+
+<b>TRE SEKURA</b>: Vera tutvoja ĉifrado (nur la interparolantoj povas malĉifri siajn mesaĝojn), kaj delegaj subskriboj por kontroli la aparatojn de partoprenantoj.
+
+<b>SENMANKA KOMUNIKADO</b>: Mesaĝoj, voĉvokoj kaj vidvokoj, havigado de dosieroj, ekrano, kaj multaj diversaj kunigoj, robotoj kaj fenestraĵoj. Kreu ĉambrojn, komunumojn, komuniku kaj kunlaboru.
+
+<b>ĈIE KUN VI</b>: Tenu vin ĝisdata per historio de mesaĝoj plene spegulita trans ĉiuj viaj aparatoj, kaj sur la reto per https://app.element.io.

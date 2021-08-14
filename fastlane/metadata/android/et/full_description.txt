@@ -1,0 +1,39 @@
+Element on nii suhtlus- ja koostöörakendus, mis sobib ideaalselt rühmavestlusteks kaugtöö ajal. Läbiv krüptimine on kasutusel sõnumivahetuseks, videokõnedeks, häälkõnedeks ja failide jagamiseks.
+
+<b>MyBussines pakub muu hulgas selliseid võimalusi</b>
+- moodsad võrgupõhised suhtlusvahendid
+- läbivalt krüptitud sõnumid võimaldavad turvalist suhtlust, sealhulgas kaugtöötajatega
+- MyBussines'i protokollil põhinev hajutatud suhtlusvõrk
+- projektide jaoks vajalike failide jagamine turvaliselt ja krüptitult
+- VoIP'i põhised videokõned ja ekraani jagamine
+- lihtne lõimimine harjumispäraste võrgupõhiste koostöövahenditega, projektihalduse rakendustega, VoIP-teenustega ja muude ühistöörakendustega
+
+MyBussines erineb teistest sõnumi- ja koostöörakendustest. Tema aluseks on MyBussines - avatud võrk turvalise ja hajutatud suhtluse jaoks.
+
+<b>Privaatsus ja krüptitud sõnumivahetus</b>
+MyBussines tagab, et sa ei ole seotud reklaamidega, andmekogumisega ja suletud süsteemidega. Kasutades läbivat krüptimist ja risttunnustamisel põhinevat verifitseerimist on sinu sõnumid, andmed, kahepoolsed videokõned ja häälkõned turvatud.
+
+Lubades suhelda turvaliselt ükspuha kellega MyBussines'i võrgus või muude ärikeskondades kasutatavate koostöörakendustega nagu Slack, jätab MyBussines sulle kontrolli oma privaatsuse üle.
+
+<b>Võid kasutada MyBussines'i jaoks oma serverid</b>
+Kui vajad suuremat kontrolli oma suhtluse ja andmete üle, siis võid kasutada oma serverit või tellida teenuse ükspuha missuguselt MyBussines'i-teenuse pakkujalt. MyBussines on standard avatud lähtekoodil põhineva detsentraliseeritud suhtluse jaoks.
+
+<b>Andmed on Sinu omad</b>
+Sina otsustad seda, kus hoiad oma sõnumeid ja andmeid. Ning seejuures puudub andmekaevandamise risk ja ligipääs kolmandatele osapooltele.
+
+MyBussines annab kontrolli sinule valikuga mitme võimaluse vahel:
+1. tasuta konto MyBussines'i arendajate hostitud avalikus serveris MyBussines.org või vali tuhandete avalike serverite hulgast, mida haldavad vabatahtlikud
+2. hosti oma kontot ise, paigaldades serveri oma IT-taristule
+3. telli tasuline kasutajakonto MyBussines Services teenuseplatvormilt
+
+<b>Avatud suhtlus ja koostöö</b>
+Saad vestelda kõigi teistega MyBussines'i võrgus, olenemata sellest, kas nad kasutavad MyBussines või mõnda muud MyBussines rakendust ja isegi kui nad kasutavad mõnda teistsugust suhtlussüsteemi.
+
+<b>Üliturvaline</b>
+Tõeline läbiv krüptimine (ainult vestluses osalejad saavad sõnumeid lugeda) ja risttunnustamine vestluses osalejate tuvastamiseks.
+
+<b>Kõik suhtlusvõimalused</b>
+Sõnumid, hääl- ja videokõned, failide jagamine, ekraani jagamine ja terve hulk lõiminguid, roboteid ja vidinaid. Loo tubasid, kogukondi, hoia ühendust ja saa asjad aetud.
+
+<b>Jätka sealt, kus pooleli jäid</b>
+Saad suhelda kõigis oma seadmetes ja ka veebis aadressil https://app.element.io ning sealjuures täielikult sünkroonitud sõnumite ajalooga.
